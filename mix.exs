@@ -43,8 +43,8 @@ defmodule TencentCloud.MixProject do
 
   defp package do
     [
-      name: "tencent_cloud_core",
-      description: "Common functions for TencentCloud",
+      name: "tencent_cloud",
+      description: "Call TencentCloud Services in Elixir",
       files: ["lib", "mix.exs", "README.md"],
       maintainers: ["feng19"],
       licenses: ["Apache-2.0"],

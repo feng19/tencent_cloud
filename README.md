@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/hexpm/l/tencent_cloud.svg)](https://github.com/feng19/tencent_cloud/blob/master/LICENSE)
 [![Last Updated](https://img.shields.io/github/last-commit/feng19/tencent_cloud.svg)](https://github.com/feng19/tencent_cloud/commits/master)
 
-**TODO: Add description**
+**Call TencentCloud Services in Elixir**
 
 ## Installation
 
